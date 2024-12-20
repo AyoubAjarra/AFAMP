@@ -14,11 +14,10 @@ The prerequesites are given in the file "requirements.txt".
 
 To cite this project, please use:
 
-'''
+```bibtex
 @article{ajarra2024active,
   title={Active Fourier Auditor for Estimating Distributional Properties of ML Models},
   author={Ajarra, Ayoub and Ghosh, Bishwamittra and Basu, Debabrota},
   journal={arXiv preprint arXiv:2410.08111},
   year={2024}
 }
-'''
